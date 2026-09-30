@@ -3,7 +3,7 @@ import urllib2
 from time import sleep
 import Adafruit_DHT as dht
 # Enter Your API key here
-myAPI = 'EHGMS8AVQCF8U7CU' 
+myAPI = 'VOTRE_CLE_THINGSPEAK' 
 # URL where we will send the data, Don't change it
 baseURL = 'https://api.thingspeak.com/update?api_key=%s' % myAPI 
 def DHT22_data():

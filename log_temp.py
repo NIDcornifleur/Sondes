@@ -10,7 +10,7 @@ import ds18b20
  
 # ThingSpeak keys
 channel_id = "two"
-write_key  = "X7L4WK8RUVDKX8N7"
+write_key  = "VOTRE_CLE_THINGSPEAK"
  
 # Temperature sensors ID's
 EXT_ID = "28-0000074d1ffd"
