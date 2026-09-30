@@ -58,7 +58,7 @@ if __name__ == "__main__":
             # log_temperature(dict)
 
             # add Things Speak special API key pair
-            dict['key'] = '70UHGK5M48WLIAZ6'
+            dict['key'] = 'VOTRE_CLE_THINGSPEAK'
 #5CF6ROY2DVZNRRDY            
             doit(dict) # send the data to Things Speak
             
